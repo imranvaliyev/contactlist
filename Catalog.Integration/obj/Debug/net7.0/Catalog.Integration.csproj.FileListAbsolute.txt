@@ -1,0 +1,17 @@
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\bin\Debug\net7.0\Catalog.Integration.deps.json
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\bin\Debug\net7.0\Catalog.Integration.runtimeconfig.json
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\bin\Debug\net7.0\Catalog.Integration.dll
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\bin\Debug\net7.0\Catalog.Integration.pdb
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\bin\Debug\net7.0\Catalog.Core.dll
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\bin\Debug\net7.0\Catalog.Core.pdb
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.csproj.AssemblyReference.cache
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.AssemblyInfoInputs.cache
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.AssemblyInfo.cs
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.csproj.CoreCompileInputs.cache
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.csproj.CopyComplete
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.dll
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\refint\Catalog.Integration.dll
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.pdb
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\Catalog.Integration.genruntimeconfig.cache
+C:\Users\ImranValiyev\Downloads\contactstest-main\Catalog\Catalog.Integration\obj\Debug\net7.0\ref\Catalog.Integration.dll
